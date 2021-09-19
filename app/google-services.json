@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421718447079",
+    "project_id": "hw06-c2b24",
+    "storage_bucket": "hw06-c2b24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421718447079:android:1a38e1f8182bbfb4196342",
+        "android_client_info": {
+          "package_name": "com.example.hw06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421718447079-pitr0q4e7nr8ir6fsp9jbb30t44n9026.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgPXCKWyrLJQOWtZoAHoWQtN8o4tBiVYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421718447079-pitr0q4e7nr8ir6fsp9jbb30t44n9026.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
